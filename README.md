@@ -130,16 +130,6 @@ npm run dev
 3. Use Stripe test cards to simulate payments (e.g., `4242 4242 4242 4242`).
 4. Access the admin dashboard to manage orders and menu items.
 
-
-## Usage
-Access the customer-facing app at http://localhost:5173.
-Access the admin app at http://localhost:5174.
-Register as a new user or log in with existing credentials.
-Browse the menu, add items to the cart, and place an order.
-Pay using dummy visa card
-Use the admin panel to manage orders, menu items.
-
-
 ## API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
