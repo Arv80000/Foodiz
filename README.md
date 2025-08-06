@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
@@ -28,6 +29,13 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
 - **Styling:** CSS
+
+## Live Demo
+The application is live and accessible at the following URLs:
+
+- **Customer App:** [https://foodiz-frontend.onrender.com](https://foodiz-frontend.onrender.com)
+- **Admin Dashboard:** [https://foodiz-admin.onrender.com](https://foodiz-admin.onrender.com)
+- **Backend API:** [https://foodiz-backend.onrender.com](https://foodiz-backend.onrender.com)
 
 ## Installation
 ### Prerequisites
@@ -103,6 +111,25 @@ Start the admin app :
 ```sh
 npm run dev
 ```
+
+## Usage
+
+### Local Development
+- Customer App: [http://localhost:5173](http://localhost:5173)
+- Admin Dashboard: [http://localhost:5174](http://localhost:5174)
+- Backend API: [http://localhost:4000](http://localhost:4000)
+
+### Production Deployment
+- **Customer App:** [https://foodiz-frontend.onrender.com](https://foodiz-frontend.onrender.com)
+- **Admin Dashboard:** [https://foodiz-admin.onrender.com](https://foodiz-admin.onrender.com)
+- **Backend API:** [https://foodiz-backend.onrender.com](https://foodiz-backend.onrender.com)
+
+### Instructions
+1. Register as a new user or log in with existing credentials.
+2. Browse the menu, add items to the cart, and place an order.
+3. Use Stripe test cards to simulate payments (e.g., `4242 4242 4242 4242`).
+4. Access the admin dashboard to manage orders and menu items.
+
 
 ## Usage
 Access the customer-facing app at http://localhost:5173.
